@@ -10,11 +10,17 @@ category: Git
 
 ! [rejected]        master -> master (fetch first) 라는 에러가 뜬다. fetch를 먼저 해준다.
 
+```shell
+$ git fetch
+```
+
+<br/>
+
 다시 git push origin master를 해보면 
 
 ![image-20200506143420689](image-20200506143420689.png)
 
-위와 같은 에러가 발생하였다. 찾아본 결과 공통분모가 없는 repository를 병합하려는게 문제라고 한다(분명 하나의 repo에서 clone를 만들었는데... 찾아봐야할 거 같다).
+master -> master(non-fast-forward)라는 에러가 발생하였다. 찾아본 결과 공통분모가 없는 repository를 병합하려는게 문제라고 한다(분명 하나의 repo에서 clone을 만들어서 문제가 없을텐데.. 찾아봐야할 거 같다).
 
 <br/>
 
