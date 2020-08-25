@@ -59,7 +59,7 @@ const Bio = () => {
           flexDirection: `column`
         }}
       >
-        <span>Code, dev</span>
+        <span>running..</span>
         <a href={`https://github.com/${social.github}`} target="_blank" rel="noopener noreferrer">
           {author}
         </a>
