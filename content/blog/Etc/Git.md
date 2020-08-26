@@ -1,7 +1,7 @@
 ---
 title: 간단한 Git 사용법
 date: 2020-02-02
-category: Git
+category: Etc
 ---
 
 # Git

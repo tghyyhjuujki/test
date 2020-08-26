@@ -1,7 +1,7 @@
 ---
 title: 프로젝트)Aws로 springboot의 MariaDb 생성1
 date: 2020-05-06
-category: Project/Aws
+category: Project
 ---
 
 로컬에서만 작동하는 Springboot 프로젝트를 Aws의 EC2의 DB로 어디서든 접속 가능하게 만들 것이다.

@@ -1,7 +1,7 @@
 ---
 title: Git error 모음(계속 추가할 예정)
 date: 2020-05-01
-category: Git
+category: Etc
 ---
 
 ### 문제 : git push origin master시 문제 발생

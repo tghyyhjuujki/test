@@ -1,7 +1,7 @@
 ---
 title: 프로젝트) Mustache로 springboot html 작성
 date: 2020-05-01
-category: Project/Html
+category: Project
 ---
 
 갑자기 코로나 사태가 잠잠해지면서 그 동안 못했던 것들을 몰아서 하느라 너무 정신이 없다

@@ -2,7 +2,7 @@
 title: 간단하게 Markdown 문법 사용하기
 date: 2020-02-01
 description: 간단하게 Markdown 문법 사용하기
-category: Markdown
+category: Etc
 ---
 # 마크다운 문법
 
